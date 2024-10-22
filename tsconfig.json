@@ -23,9 +23,10 @@
     "composite": true,
     "declarationMap": true,
     /* If NOT transpiling with TypeScript: */
-    "module": "preserve",
     "noEmit": true,
     /* If your code doesn't run in the DOM: */
-    "lib": ["es2022"]
+    "lib": [
+      "es2022"
+    ]
   }
 }
